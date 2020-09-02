@@ -1,4 +1,5 @@
 ![Image wallpaper_SQL](https://github.com/andervyd/SQL-course/blob/master/source/wallpaper_SQL.png)
+
 ![Image SQL_logo](https://github.com/andervyd/SQL-course/blob/master/source/sql_logo.png) 
 [The course was created by Zaur Tregulov](https://www.udemy.com/course/sql-oracle-certification/)
 
