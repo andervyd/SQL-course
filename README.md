@@ -5,10 +5,10 @@
 
 ![Image wallpaper_SQL](https://github.com/andervyd/SQL-course/blob/master/source/wallpaper_SQL.png)
 
-#### HR table schema
+### HR table schema
 ![Image SQL_HR_schema](https://github.com/andervyd/SQL-course/blob/master/source/SQL_HR_schema.png)
 
-## Contents:
+### Contents:
 
 #### [01 Introduction to SQL](https://github.com/andervyd/SQL-course/tree/master/SQL%20course/01%20Introduction%20to%20SQL)
 #### [02 Introducing SELECT](https://github.com/andervyd/SQL-course/tree/master/SQL%20course/02%20Introducing%20SELECT)
@@ -24,34 +24,34 @@
 #### [12 DDL Part 2. Concepts CONSTRAINT and INDEX](https://github.com/andervyd/SQL-course/tree/master/SQL%20course/12%20DDL%20Part%202.%20Concepts%20CONSTRAINT%20and%20INDEX)
 #### [13 DDL Part 3. VIEW, SYNONYM, SEQUENCE](https://github.com/andervyd/SQL-course/tree/master/SQL%20course/13%20DDL%20Part%203.%20VIEW%2C%20SYNONYM%2C%20SEQUENCE)
 
-###### 144. Introduction to VIEW\
+###### 144. Introduction to VIEW
 ###### 145. Simple and Complex VIEW                   
-            a. SIMPLE                       
-            b. COMLEX                         
+            1. SIMPLE                       
+            2. COMLEX                         
 ###### 146. CREATE VIEW                              
-            a. OR REPLACE:                   
-            b. FORCE / NOFORCE (default)      
-            c. WITH CHECK OPTION              
-            d. WITH READ ONLY                
-            f. CONSTRAINT                    
-            g. ALIAS                         
+            1. OR REPLACE:                   
+            2. FORCE / NOFORCE (default)      
+            3. WITH CHECK OPTION              
+            4. WITH READ ONLY                
+            5. CONSTRAINT                    
+            6. ALIAS                         
 ###### 147. Change ALTER VIEW and DELETE VIEW         
-            a. ALTER VIEW                     
-            b. DELETE VIEW                   
-            c. EXAMPLES                      
+            1. ALTER VIEW                     
+            2. DELETE VIEW                   
+            3. EXAMPLES                      
 ###### 148. SYNONYM                                   
-            a. PUBLIC SYNONYM                 
-            b. PRIVATE SYNONYM                
-            c. DELETE SYNONYM                
-            d. ALTER SYNONYM                  
+            1. PUBLIC SYNONYM                 
+            2. PRIVATE SYNONYM                
+            3. DELETE SYNONYM                
+            4. ALTER SYNONYM                  
 ###### 149. Introduction to SEQUENCE                  
 ###### 150. Work with the SEQUENCE. Part 1            
-            a. NEXTVAL                         
-            b. CURRVAL                        
+            1. NEXTVAL                         
+            2. CURRVAL                        
 ###### 151. Work with the SEQUENCE. Part 2            
-            a. WITHOUT PASSES IN PRIMARY KEY   
-            b. ALTER SEQUENCE                 
-            c. DELETE SEQUENCE              
+            1. WITHOUT PASSES IN PRIMARY KEY   
+            2. ALTER SEQUENCE                 
+            3. DELETE SEQUENCE              
 
 #### [14 Miscellaneous](https://github.com/andervyd/SQL-course/tree/master/SQL%20course/14%20Miscellaneous)
 #### [15 Practics](https://github.com/andervyd/SQL-course/tree/master/SQL%20course/15%20Practics)
